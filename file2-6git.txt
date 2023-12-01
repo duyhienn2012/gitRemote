@@ -1,2 +1,3 @@
 file2 git reset
 update
+update $10 git checkout
